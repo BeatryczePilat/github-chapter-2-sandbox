@@ -1,6 +1,6 @@
-git #include <iostream>
+#include <iostream>
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    std::cout << "popioly pod nogi" << std::endl;
     return 0;
 }
